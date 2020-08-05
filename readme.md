@@ -1,3 +1,2 @@
 # Foo
 
-Hello World!
